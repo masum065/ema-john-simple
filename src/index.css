@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button.boxed-btn {
+  background: #f0c14b;
+  border: 1px solid #a88734;
+  padding: 10px 36px;
+  display: inline-block;
+  margin-top: 20px;
+  border-radius: 6px;
+}
+
+button.boxed-btn:active {
+  outline: none;
+}
